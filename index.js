@@ -77,5 +77,3 @@ async function getPokemon() {
     // console.log(data.name)
 
 }
-
-getPokemon()
